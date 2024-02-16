@@ -1,2 +1,2 @@
-# bagofwords
-This project involves extracting the primary lemmas from PDF documents to automatically generate a bag of words. The script incorporates a stopwords file and is designed to create a bag of words for potential further analysis.
+# Bagofwords and TF-IDF
+This project involves extracting primary lemmas from PDF documents to automatically generate a bag of words. The script incorporates a stopwords file and is designed to create a bag of words for potential further analysis. Additionally, an additional script has been developed to take the CSV file containing the bag of words and attempts to calculate TF-IDF (Term Frequency-Inverse Document Frequency). However, it should be noted that the TF-IDF calculation script may not be fully functional at this time.
